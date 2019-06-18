@@ -53,11 +53,12 @@ Before doing finetuning, copy the best encoder_x.pt and decoder_x.pt checkpoints
 
 ## Evaluating
 **Note**: Parameters with detail explanation could be found in the corresponding source code.
-###Classification:
+
+**Classification:**
 
     $ python test_cls.py --dataset <your test dataset> --test_set test --outf checkpoints --id <your selected id>
 
-###Segmentation:
+**Segmentation:**
 
     $ python test_seg.py --dataset <your test dataset> --test_set test --outf checkpoints --id <your selected id>
 
