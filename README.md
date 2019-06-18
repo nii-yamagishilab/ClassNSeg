@@ -33,7 +33,7 @@ Each dataset has two parts:
 - Original images: ./datasets/\<name\>/\<train;test;validation\>/original
 - Altered images: ./datasets/\<name\>/\<train;test;validation\>/altered
 
-All datasets need to be pre-processed to crop facial area. It could be done by using these scripts:
+All datasets need to be pre-processed to crop facial areas and add segmentation maps. It could be done by using these scripts:
 
       ./create_dataset_Face2Face.py
       ./create_dataset_Deepfakes.py
