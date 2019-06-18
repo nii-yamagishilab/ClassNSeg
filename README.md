@@ -49,7 +49,7 @@ All datasets need to be pre-processed to crop facial areas and add segmentation 
 Before doing finetuning, copy the best encoder_x.pt and decoder_x.pt checkpoints to checkpoints/finetune with x is the checkpoint number and rename them to encoder_0.pt and decoder_0.pt.
 **Note**: Parameters with detail explanation could be found in the corresponding source code.
 
-    $ python train.py --dataset datasets/finetune --train_set train --val_set validation --outf checkpoints/finetune --batchSize 64 --niter 50
+    $ python finetune.py --dataset datasets/finetune --train_set train --val_set validation --outf checkpoints/finetune --batchSize 64 --niter 50
 
 ## Evaluating
 **Note**: Parameters with detail explanation could be found in the corresponding source code.
