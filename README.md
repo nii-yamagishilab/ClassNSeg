@@ -75,4 +75,4 @@ Beside testing on still images, the proposed method can be applied on videos. On
 This research was supported by JSPS KAKENHI Grant Number JP16H06302, JP18H04120, and JST CREST Grant Number JPMJCR18A6, Japan.
 
 ## Reference
-H. H. Nguyen, F. Fang, J. Yamagishi, and I. Echizen, “Capsule-Forensics: Multi-task Learning for Detecting and Segmenting Manipulated Facial Images and Videos,” Proc. of the 10th IEEE International Conference on Biometrics: Theory, Applications and Systems (BTAS), 8 pages, (September 2019)
+H. H. Nguyen, F. Fang, J. Yamagishi, and I. Echizen, “Multi-task Learning for Detecting and Segmenting Manipulated Facial Images and Videos,” Proc. of the 10th IEEE International Conference on Biometrics: Theory, Applications and Systems (BTAS), 8 pages, (September 2019)
