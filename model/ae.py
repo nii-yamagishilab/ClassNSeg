@@ -1,3 +1,11 @@
+"""
+Copyright (c) 2019, National Institute of Informatics
+All rights reserved.
+Author: Huy H. Nguyen
+-----------------------------------------------------
+The Y-shaped autoencoder model file.
+"""
+
 import torch
 from torch import nn
 
