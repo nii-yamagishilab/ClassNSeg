@@ -62,7 +62,7 @@ Before doing finetuning, copy the best encoder_x.pt and decoder_x.pt checkpoints
 
     $ python test_seg.py --dataset <your test dataset> --test_set test --outf checkpoints --id <your selected id>
 
-Beside testing on still images, the proposed method can be applied on videos. One recommendation is using OpenCV 3.4 with Caffe framework for face detection (Visit <a href="https://arxiv.org/abs/1906.06876">here</a> for more information). Another option is using <a href="http://dlib.net/face_detector.py.html">Dlib</a>.
+Beside testing on still images, the proposed method can be applied on videos. One recommendation is using OpenCV 3.4 with Caffe framework for face detection (Visit <a href="https://docs.opencv.org/3.4/d5/de7/tutorial_dnn_googlenet.html">here</a> for more information). Another option is using <a href="http://dlib.net/face_detector.py.html">Dlib</a>.
 
 ## Authors
 - Huy H. Nguyen (https://researchmap.jp/nhhuy/?lang=english)
