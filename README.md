@@ -1,4 +1,4 @@
-# Capsule-Forensics
+# ClassNSeg
 
 Implementation of the paper:  <a href="https://arxiv.org/abs/1906.06876">Multi-task Learning for Detecting and Segmenting Manipulated Facial Images and Videos</a> (BTAS 2019).
 
